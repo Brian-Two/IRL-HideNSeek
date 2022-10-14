@@ -1,0 +1,28 @@
+{
+  "name": "endofyearproject2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node connect.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glew2/EndOfYearProject2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glew2/EndOfYearProject2021/issues"
+  },
+  "homepage": "https://github.com/glew2/EndOfYearProject2021#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "guid": "0.0.12",
+    "jquery": "^3.6.0",
+    "short-unique-id": "^4.4.4",
+    "socket.io": "^4.5.1",
+    "uuid": "^8.3.2"
+  },
+  "description": ""
+}
